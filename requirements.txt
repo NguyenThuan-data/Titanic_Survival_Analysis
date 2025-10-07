@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+seaborn
+ydata-profiling
+ipython
+jupyter
+scikit-learn
+plotly
